@@ -38,6 +38,14 @@ features/steps/load_steps.py
 
 You will be given partial implementations in each of these files to get you started. Use those implementations as examples of the code you should write.
 
+## Tests
+
+Use the lab environment to clone the project from the GitHub link provided
+
+    Run nosetests and ensure that all tests pass and test coverage is 95% or better
+    Run the application with honcho start in on terminal shell
+    In another terminal shell run the behavecommand and ensure that there are seven (7) scenarios (one each for Read a Product, Update a Product, Delete a Product, List all Products, List by Category, List by Available, and List by Name) and that all scenarios pass.
+
 ## License
 
 Licensed under the Apache License. See [LICENSE](/LICENSE)
